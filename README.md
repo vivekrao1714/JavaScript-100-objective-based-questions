@@ -12,6 +12,7 @@ d) Some Database
 	<summary><b>View Answer</b></summary>
 <ul>
 Answer: b) No
+	No, JavaScript running in the browser cannot directly connect to an actual database like MySQL or MongoDB.
 </ul>
 </details>
 
