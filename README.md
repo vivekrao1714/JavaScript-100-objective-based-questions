@@ -494,9 +494,9 @@ Answer: a) They do not bind this
 
 **34 Output of follow code? **
 ```js
-function tryFruits(...fruits)
+function tryFruits(fruits)
 {
-console.log(...fruits)
+console.log(fruits)
 }
 
 tryFruits('apple','banana','grapes')
